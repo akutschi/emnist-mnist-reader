@@ -37,6 +37,7 @@ The corresponding publications:
 ## Usage
 
 See `src/main.cpp`. 
+Download the datasets from the original sources or use the data sets in the [GitLab repository](https://gitlab.com/akutschi/emnist-mnist-reader/-/tree/main/data).
 Simply add the header where the object `MNISTDataSet` is required.
 
 ```cpp
