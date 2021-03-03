@@ -1,4 +1,4 @@
-> **This GitHub repository is just a mirror. The [original code](https://gitlab.com/akutschi/eminst-mnist-reader/) is maintained at [GitLab](https://gitlab.com/)**
+> **This GitHub repository is just a mirror. The [original code](https://gitlab.com/akutschi/emnist-mnist-reader/) is maintained at [GitLab](https://gitlab.com/)**
 
 # EMNIST and MNIST Data Importer
 
