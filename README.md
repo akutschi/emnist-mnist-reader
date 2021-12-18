@@ -28,7 +28,7 @@ The corresponding publications:
 ## Build and Test
 
 1. Clone this repo: `git clone git@github.com:akutschi/emnist-mnist-reader.git`
-1. Clone the submodule to get the data sets: `git submodule add git@gitlab.com:akutschi/emnist-mnist-data.git data`
+1. Update the submodule to get the data sets: `git submodule update --init --recursive`
 2. Make a build directory in the top level directory: `mkdir build && cd build`
 3. Compile: `cmake .. && make`
 4. Run it: `./MNIST-Data`
